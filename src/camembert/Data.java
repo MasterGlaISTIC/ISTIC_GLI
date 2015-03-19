@@ -1,13 +1,10 @@
 package camembert;
 
-import javafx.beans.property.Property;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.chart.PieChart;
-import javafx.scene.chart.XYChart;
-import javafx.scene.text.Text;
 
 /**
  * Created by amhachi on 19/03/15.
